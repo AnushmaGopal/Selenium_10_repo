@@ -1,7 +1,6 @@
 package com.java.collectionFramework;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 
 public class CollectionDemo {
